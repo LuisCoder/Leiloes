@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClsPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <clsPerson>
+    <FirstName>Luis</FirstName>
+    <MI>LC</MI>
+    <LastName>Costa</LastName>
+  </clsPerson>
+  <clsPerson>
+    <FirstName>Joao</FirstName>
+    <MI>JC</MI>
+    <LastName>Costa</LastName>
+  </clsPerson>
+</ArrayOfClsPerson>

@@ -1,0 +1,5 @@
+C:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\ClassesComuns\bin\Debug\ClassesComuns.dll
+C:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\ClassesComuns\bin\Debug\ClassesComuns.pdb
+C:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\ClassesComuns\obj\Debug\ClassesComuns.csprojResolveAssemblyReference.cache
+C:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\ClassesComuns\obj\Debug\ClassesComuns.dll
+C:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\ClassesComuns\obj\Debug\ClassesComuns.pdb

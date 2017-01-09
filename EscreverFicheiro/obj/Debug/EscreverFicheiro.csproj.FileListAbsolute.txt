@@ -1,0 +1,5 @@
+C:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\EscreverFicheiro\bin\Debug\EscreverFicheiro.exe.config
+C:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\EscreverFicheiro\bin\Debug\EscreverFicheiro.exe
+C:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\EscreverFicheiro\bin\Debug\EscreverFicheiro.pdb
+C:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\EscreverFicheiro\obj\Debug\EscreverFicheiro.exe
+C:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\EscreverFicheiro\obj\Debug\EscreverFicheiro.pdb

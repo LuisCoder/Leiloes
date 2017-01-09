@@ -1,0 +1,14 @@
+C:\Users\LUIS\Desktop\esc\PFC\Exemplos Bons\TPARC\Leiloes\bin\Debug\Leiloes.exe.config
+C:\Users\LUIS\Desktop\esc\PFC\Exemplos Bons\TPARC\Leiloes\bin\Debug\Leiloes.exe
+C:\Users\LUIS\Desktop\esc\PFC\Exemplos Bons\TPARC\Leiloes\bin\Debug\Leiloes.pdb
+C:\Users\LUIS\Desktop\esc\PFC\Exemplos Bons\TPARC\Leiloes\obj\Debug\Leiloes.csprojResolveAssemblyReference.cache
+C:\Users\LUIS\Desktop\esc\PFC\Exemplos Bons\TPARC\Leiloes\obj\Debug\Leiloes.exe
+C:\Users\LUIS\Desktop\esc\PFC\Exemplos Bons\TPARC\Leiloes\obj\Debug\Leiloes.pdb
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Leiloes\obj\Debug\Leiloes.csprojResolveAssemblyReference.cache
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Leiloes\obj\Debug\Leiloes.exe
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Leiloes\bin\Debug\Leiloes.exe.config
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Leiloes\bin\Debug\Leiloes.exe
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Leiloes\bin\Debug\Leiloes.pdb
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Leiloes\bin\Debug\ClassesComuns.dll
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Leiloes\bin\Debug\ClassesComuns.pdb
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Leiloes\obj\Debug\Leiloes.pdb

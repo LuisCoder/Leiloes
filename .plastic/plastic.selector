@@ -1,0 +1,4 @@
+repository "TPARC@localhost:8087"
+  path "/"
+    smartbranch "/main/Main/Notificacoes"                                                                                                       
+     

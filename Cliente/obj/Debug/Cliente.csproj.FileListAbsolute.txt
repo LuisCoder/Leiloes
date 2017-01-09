@@ -1,0 +1,13 @@
+C:\Users\LUIS\Desktop\esc\PFC\Exemplos Bons\TPARC\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\LUIS\Desktop\esc\PFC\Exemplos Bons\TPARC\Cliente\bin\Debug\Cliente.exe
+C:\Users\LUIS\Desktop\esc\PFC\Exemplos Bons\TPARC\Cliente\bin\Debug\Cliente.pdb
+C:\Users\LUIS\Desktop\esc\PFC\Exemplos Bons\TPARC\Cliente\obj\Debug\Cliente.exe
+C:\Users\LUIS\Desktop\esc\PFC\Exemplos Bons\TPARC\Cliente\obj\Debug\Cliente.pdb
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Cliente\bin\Debug\Cliente.exe.config
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Cliente\obj\Debug\Cliente.exe
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Cliente\obj\Debug\Cliente.pdb
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Cliente\bin\Debug\Cliente.exe
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Cliente\bin\Debug\Cliente.pdb
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Cliente\bin\Debug\ClassesComuns.dll
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Cliente\bin\Debug\ClassesComuns.pdb
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache

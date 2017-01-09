@@ -1,0 +1,8 @@
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Contabilidade\bin\Debug\Contabilidade.exe.config
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Contabilidade\bin\Debug\Contabilidade.exe
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Contabilidade\bin\Debug\Contabilidade.pdb
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Contabilidade\bin\Debug\ClassesComuns.dll
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Contabilidade\bin\Debug\ClassesComuns.pdb
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Contabilidade\obj\Debug\Contabilidade.exe
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Contabilidade\obj\Debug\Contabilidade.pdb
+c:\Users\LUIS\Documents\Visual Studio 2012\Projects\TPARC\Contabilidade\obj\Debug\Contabilidade.csprojResolveAssemblyReference.cache
